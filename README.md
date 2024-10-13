@@ -2,6 +2,12 @@
 
 元提示词生成器是一个基于 Gradio 的 Web 应用程序，用于生成 AI 模型的提示词模板。它支持 Claude 和 OpenAI 的元提示词实现，可以根据用户输入的任务描述和变量生成相应的提示词模板。
 
+## 在线体验
+
+您可以通过以下链接在线体验元提示词生成器：
+
+[在线体验元提示词生成器](https://www.modelscope.cn/studios/anarchysaiko/metapromptgenerator)
+
 ## 功能特点
 
 - 支持 Claude 和 OpenAI 的元提示词实现
